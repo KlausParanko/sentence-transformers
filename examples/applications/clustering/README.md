@@ -1,5 +1,5 @@
 # Clustering
-Sentence-Transformers can be used in different ways to perform clustering of small or large set of sentences.
+Sentence-Transformers can be used in different ways to perform clustering of small or large sets of sentences.
 
 ## k-Means
 [kmeans.py](kmeans.py) contains an example of using [K-means Clustering Algorithm](https://scikit-learn.org/stable/modules/clustering.html#k-means). K-Means requires that the number of clusters is specified beforehand. The sentences are clustered in groups of about equal size.
